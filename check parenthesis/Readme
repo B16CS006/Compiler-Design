@@ -1,0 +1,21 @@
+Program to check whether parenthesis are balanced or not.
+
+Lex program file :	source.l
+executable file	 :	scanner
+dependency file	 :	stack.h
+test file	 :	test
+
+* stack.h	 consists of function declarations and
+* stack.c	 consists of function definations
+
+-> Just run the following command to make an executable file
+	make
+
+-> Delete all unnecessary file except execuatable file run the following command
+	make clean_no_exe
+
+-> To clean the unnecessary file(exclude executable) run the following command
+	make clean
+
+-> To run the executable file type follwing command (note that exe file is present in the directory.)
+	./scanner

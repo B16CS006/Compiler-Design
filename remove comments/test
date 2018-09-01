@@ -1,0 +1,18 @@
+int main(){
+	int a;	//it is a integer
+	int b;	//it is also a integer
+	int c;
+	int d;
+/* 
+	from here we are going to have a fun 
+	with a programming language ()()()()()()()()()()()()()()()(
+	which you can enjoy very well 
+	depends on you.
+*/
+	printf("Hey There!\n"); 
+/*
+asdf
+*/
+
+	return 0;
+}

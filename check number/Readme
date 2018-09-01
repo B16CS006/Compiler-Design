@@ -1,0 +1,13 @@
+Program to check the type of the Number.
+
+Lex program file :	source.l
+executable file	 :	scanner
+
+-> Just run the following command to make an executable file
+	make
+
+-> To clean the unnecessary file run the following command
+	make clean
+
+-> To run the executable file type follwing command (note that exe file is present in the directory.)
+	./scanner

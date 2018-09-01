@@ -1,0 +1,17 @@
+Program to remove comment from a given C Program file.
+
+Lex program file :	source.l
+executable file	 :	scanner
+test file	 :	test
+
+-> Just run the following command to make an executable file
+	make
+
+-> Delete all unnecessary file except execuatable file run the following command
+	make clean_no_exe
+
+-> To clean the unnecessary file run the following command
+	make clean
+
+-> To run the executable file type follwing command (note that exe file is present in the directory.)
+	./scanner
